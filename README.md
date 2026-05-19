@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Viraj711
-- 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Computer Engineering From Thakur Polytechnic
 - 📫 How to reach me 📧dhruveviraj@gmail.com 
 
 <!---
